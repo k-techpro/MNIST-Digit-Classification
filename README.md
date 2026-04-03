@@ -47,3 +47,5 @@ The model achieves high classification accuracy on unseen test data.
 
 2. Run the script:
    python mnist_model.py
+
+   Created by **kombaiya** **k-techpro**
